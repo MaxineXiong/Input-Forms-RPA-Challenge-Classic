@@ -7,15 +7,19 @@
 
 <br/>
 
+This repository contains a seamless RPA workflow capable of transferring data from a spreadsheet onto dynamic form fields on the screen. The RPA challenge, [_**Input Forms**_](https://www.rpachallenge.com/), requires us to create a workflow that will input data from an Excel spreadsheet into a set of forms where the fields will dynamically change position on the screen after every submission of a form. To successfully complete the challenge, it's essential that all the data is accurately entered into the correct fields, and the automation process should be optimized for maximum speed. My solution in this repository flawlessly conquered the challenge, achieving an impeccable 100% accuracy in a mere 16,173 milliseconds.
+
+_You can check out **my RPA solution** to the challenge in the **demo video** below_:
+
+https://github.com/MaxineXiong/Input-Forms-RPA-Challenge/assets/55864839/6b0d3093-88eb-4296-9f3a-540f3c699160
+
+<br/>
+
 ## **Challenge Instructions**
 
 * The goal of this challenge is to create a workflow that will input data from a spreadsheet into the form fields on the screen.
 * Beware! **The fields will change position on the screen after every submission** throughout 10 rounds thus the workflow must correctly identify where each spreadsheet record must be typed every time.
 * The actual countdown of the challenge will begin once you click the "Start" button until then you may submit the form as many times as you wish without receiving penalties.
-
-_You can check out **my RPA solution** to the challenge in the **demo video** below_:
-
-https://github.com/MaxineXiong/Input-Forms-RPA-Challenge/assets/55864839/6b0d3093-88eb-4296-9f3a-540f3c699160
 
 <br/>
 
