@@ -1,4 +1,4 @@
-### UiPath RPA Robot
+### UiPath RPA Challenge
 # Tackling the Input Forms RPA Challenge with UiPath Classic Design Experience
 
 [![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/MaxineXiong)
